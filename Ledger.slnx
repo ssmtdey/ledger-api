@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Ledger.Api/Ledger.Api.csproj" />
+  <Project Path="Ledger.Tests/Ledger.Tests.csproj" />
+</Solution>
